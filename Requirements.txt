@@ -1,4 +1,4 @@
-Python==3.10.11
-Streamlit==1.16.0
+Python
+Streamlit
 Pandas
 yfinance
